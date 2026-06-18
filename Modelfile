@@ -1,0 +1,2 @@
+FROM batiai/gemma4-e2b:q4
+PARAMETER num_gpu 99
