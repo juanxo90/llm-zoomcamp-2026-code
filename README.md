@@ -12,7 +12,7 @@ This project demonstrates the implementation of Retrieval-Augmented Generation (
 
 ## Notebook Content Note
 
-**Please note:** The notebooks in this repository primarily contain the source code and comments explaining the implementation steps. Detailed, in-depth notes or theoretical explanations are not provided within the notebook cells themselves.
+**Please note:** The notebooks in this repository primarily contain the only code and comments with a brief explanation the implementation steps. Detailed, in-depth notes or theoretical explanations are not provided within the notebook cells themselves. This is an inspiration from the [LLM Zoomcamp 2026](https://github.com/DataTalksClub/llm-zoomcamp). 
 
 ## Files
 
