@@ -1,2 +1,2 @@
-FROM batiai/gemma4-e2b:q4
+FROM qwen3.5:0.8b
 PARAMETER num_gpu 99
