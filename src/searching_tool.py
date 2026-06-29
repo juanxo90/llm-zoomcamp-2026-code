@@ -11,10 +11,10 @@ def fit_docs(
     return index
 
 
-def search(question, fited_docs, course="llm-zoomcamp"):
+def search(question, index, course="llm-zoomcamp"):
     boost_dict = {"question": 2.0, "section": 0.5}
     filter_dict = {"course": course}
 
-    return fited_docs.search(
+    return index.search(
         question, boost_dict=boost_dict, filter_dict=filter_dict, num_results=5
     )

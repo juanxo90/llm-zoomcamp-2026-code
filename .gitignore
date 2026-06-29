@@ -16,3 +16,5 @@ venv/
 *.db
 *.db*
 *.sqlite
+
+models/
