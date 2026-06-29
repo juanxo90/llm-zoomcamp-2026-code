@@ -1,4 +1,5 @@
 from langchain_core.messages import HumanMessage, SystemMessage
+
 from src.build_prompt import INSTRUCTIONS, USER_PROMPT_TEMPLATE
 
 
